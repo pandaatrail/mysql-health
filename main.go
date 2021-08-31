@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/sensu-community/sensu-plugin-sdk/sensu"
+	"github.com/sensu/sensu-plugin-sdk/sensu"
 	"github.com/sensu/sensu-go/types"
 )
 
